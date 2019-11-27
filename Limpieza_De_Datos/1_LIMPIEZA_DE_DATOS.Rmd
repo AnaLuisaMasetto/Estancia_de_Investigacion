@@ -1,6 +1,6 @@
 ---
 title: "***ETAPA 1: DATA PREPARATION***"
-author: "***Ana Luisa Masetto Herrera e Irvin Patlán Ramírez***"
+author: "***Ana Luisa Masetto Herrera***"
 output: html_document
 ---
 ###***1. Limpieza de Datos***
